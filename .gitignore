@@ -1,0 +1,6 @@
+/input_bck/
+/input
+**/*.pkl
+**/*.pth
+/processed/
+/.idea/
